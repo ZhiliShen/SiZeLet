@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/pytorch-1.7.0-orange.svg) ![](https://img.shields.io/badge/sklearn-0.24.2-brightgreen.svg) ![](https://img.shields.io/badge/pandas-1.1.5-blue.svg)
 
 # SiZeLet
-The implementation of SiZeLet (SZL) proposed in the paper [*Everything Can Be Embedded*]() by Zhili Shen.
+The implementation of SiZeLet (SZL) proposed in the paper [*Everything Can Be Embedded*](https://github.com/ZhiliShen/SiZeLet/blob/main/paper/Everything%20Can%20Be%20Embedded.pdf) by Zhili Shen.
 
 ## Prerequisites
 1. Download the **Product Fit** dataset from this [link](https://cs.nju.edu.cn/liyf/aml21/product_fit.zip), and unzip it in the project folder.
