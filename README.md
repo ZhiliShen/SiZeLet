@@ -6,7 +6,7 @@ The implementation of SiZeLet (SZL) proposed in the paper [*Everything Can Be Em
 ## Prerequisites
 1. Create *`./output`*, *`./cache`*, *`./saved_models`* under the project folder 
 2. Download the **Product Fit** dataset from this [link](https://cs.nju.edu.cn/liyf/aml21/product_fit.zip), and unzip it in the project folder.
-3. Download the **GloVE Word Embdding** from this [link](https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/gluon/embeddings/glove/glove.twitter.27B.zip), move it to the *`./cache`* folder after unzipping *glove.twitter.27B.zip*.
+3. Download the **GloVE Word Embedding** from this [link](https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/gluon/embeddings/glove/glove.twitter.27B.zip), move it to the *`./cache`* folder after unzipping *glove.twitter.27B.zip*.
 
 ## Model Architecture of SiZeLet
 <br>
